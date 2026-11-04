@@ -6,15 +6,23 @@ This project explores disruptions to civil aviation in the context of geopolitic
 
 > **Data transparency:** The notebook references six CSV datasets, but their original sources and collection methods are not documented in the notebook. The findings below describe the supplied datasets and should not be interpreted as independently verified real-world losses or conflict impacts. Confirm whether the datasets are real, synthetic, or illustrative before presenting them as factual evidence.
 
+
 ## Interactive Visualizations
 
-Explore the interactive Plotly visualizations developed for this project:
+### Global Aviation Financial Losses
 
-🌍 **[Global Aviation Financial Losses – Interactive Map](https://enya32.github.io/Global-Aviation-Disruption-Analysis/aviation_map.html)**
+![Global Aviation Financial Losses](docs/aviation_map.png)
 
-📊 **[Operational Disruption vs Financial Loss – Interactive Scatter Plot](https://enya32.github.io/Global-Aviation-Disruption-Analysis/aviation_scatter.html)**
+🌍 [Explore Interactive World Map](https://enya32.github.io/Global-Aviation-Disruption-Analysis/aviation_map.html)
 
-These visualizations allow users to explore geographic patterns, flight cancellations, and estimated financial losses interactively.
+### Operational Disruption vs Financial Loss
+
+![Operational Disruption vs Financial Loss](docs/aviation_scatter.png)
+
+📊 [Explore Interactive Scatter Plot](https://enya32.github.io/Global-Aviation-Disruption-Analysis/aviation_scatter.html)
+
+These visualizations explore geographic patterns, flight cancellations, and estimated financial losses based on the supplied datasets.
+
 
 ## Project Objectives
 
